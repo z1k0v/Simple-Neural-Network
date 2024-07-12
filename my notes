@@ -1,0 +1,3 @@
+This is a simple neural network in which we use the Iris Flowers datasets, we declared 4 in_features
+representing the 4 distinctive features of the flower, the number of neuros was chosen arbitrary,
+and then we created the forward function (we choose relu but i atm dont know why)
